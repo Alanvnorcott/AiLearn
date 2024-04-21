@@ -43,7 +43,7 @@ learning_rate = 0.1
 discount_factor = 0.9
 epsilon = 0.1
 
-# Game part
+# Game part of sim
 options = ["orange", "yellow", "red", "green", "blue"]
 questions = ["apple", "banana", "orange", "blueberries", "grapes"]
 
